@@ -12,7 +12,7 @@ const CheckoutButton: React.FC = () => {
     const stripe = await stripePromise;
 
     const { error } = await stripe.redirectToCheckout({
-      lineItems: [{price: 'price_1L2hqnLOa865kXy67yX1Irup', quantity: 1 }],
+      lineItems: [{price: 'price_1L1CnPLOa865kXy6cHKbR3kw', quantity: 1 }],
       mode: 'subscription',
       successUrl: `http://localhost:3000/success`,
       cancelUrl: 'http://localhost:3000/cancel',

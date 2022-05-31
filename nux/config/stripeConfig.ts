@@ -1,4 +1,4 @@
 export default {
-    publicKey: 'pk_live_51L0y09LOa865kXy6YZIEziQNjqFAWX5YnY0jtpOLDQfAcafipz8rP7O42juOoqQFlr1Z91M2iEuwuBJ255sqTv7G00Q2OnsPee',
-    secretKey: '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',
+    publicKey: 'pk_test_51L0y09LOa865kXy6Pg3utlwZGJlUh4gdvPqIjcNlUUTF4JFJTIKPjd3CHHatlHBYYkzDRKNJyTzHGcsVjl1U1cuh00Izs2jdef',
+    secretKey: 'sk_test_51L0y09LOa865kXy6fF9VHikHxktselOmlVfctt1y5nukeyNHiU7Z7IRYQtqnLPqvK5Rm3Ug4FXMHSl035UurgDtZ00lbwYGq6y',
 };
