@@ -17,6 +17,7 @@
 >thats a landing page of a course made with next and the payment page I use the stripe API, on the styles i have been used styled-component
 >FUTURE UPDATES:
 >- AUTH JWT
+>- Responsivity
 >
 ## 💻 Prerequisites
 
