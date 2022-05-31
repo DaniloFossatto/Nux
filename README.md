@@ -22,7 +22,7 @@
 
 Before start, make sure you meet these requirements:
 
-* You have installed the latest stable version of `Vue CLI` 
+* You have installed the latest stable version of `REACT` 
 
 ## 🚀 Project Setup
 
