@@ -34,7 +34,7 @@ Clone the project and run the command in the root directory:
 npm install
 ```
 
-## ☕ Using Pokédex
+## ☕ Using 
 
 ### Compiles and hot-reloads for development
 ```
